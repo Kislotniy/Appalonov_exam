@@ -1,2 +1,0 @@
-# Appalonov_exam
-Exam
